@@ -1,4 +1,4 @@
 # first
-first info 1
+first information 1
 my added line 2
 
